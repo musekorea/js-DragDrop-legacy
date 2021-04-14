@@ -1,0 +1,18 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  width: 500px;
+  height: 300px;
+  background-color: #e9e9e9;
+  position: relative;
+}
+.box {
+  width: 50px;
+  height: 50px;
+  background-color: limegreen;
+  position: absolute;
+}
